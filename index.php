@@ -3,10 +3,11 @@
 echo "remove";
 
 
-function add()
+function add($num1, $num2)
 {
 
-    return 10 + 10;
+    return $num1 + $num2;
 }
 
-echo add();
+echo add(10, 10);
+echo add(10, 10);
