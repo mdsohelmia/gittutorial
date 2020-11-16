@@ -10,3 +10,4 @@ function add($num1, $num2)
 }
 
 echo add(10, 10);
+echo add(10, 10);
